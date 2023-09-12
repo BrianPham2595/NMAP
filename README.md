@@ -1,4 +1,4 @@
-# NMAP Vulnerability Analysis
+# NMAP Vulnerability & Wireshark Anomaly Analysis
 
 This repository showcases a comprehensive vulnerability analysis project utilizing Nmap and Wireshark. The project not only emphasized the technical application of these tools but also underscored the importance of professional communication, evidence presentation, and solution recommendation.
 
